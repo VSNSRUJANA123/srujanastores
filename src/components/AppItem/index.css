@@ -1,0 +1,19 @@
+.appLiContainer {
+  background-color: white;
+  padding: 20px;
+  margin: 10px;
+  width: 150px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.appLiContainer img {
+  width: 70px;
+  margin: 10px;
+}
+.appLiContainer p {
+  font-size: 14px;
+}

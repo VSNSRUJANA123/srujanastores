@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.button {
+  cursor: pointer;
+  margin: 10px;
+  outline: none;
+  border: none;
+  background: transparent;
+}
+.isActive {
+  color: #2563eb;
+  border-bottom: 2px #2563eb solid !important;
+}
